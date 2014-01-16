@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "roadie", "~> 3.0.0.pre1"
   spec.add_dependency "rails", ">= 3.0", "<= 4.0"
 
-  spec.add_development_dependency "bundler", "~> 1.3"
+  spec.add_development_dependency "bundler", ">= 1.3"
   spec.add_development_dependency "rspec-rails"
   spec.add_development_dependency "rspec"
 end
